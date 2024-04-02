@@ -4,7 +4,7 @@
 #include <sys/shm.h>
 #include <sys/stat.h>
 
-int main(
+int main()
 {
     // shared memory obj
     const int SIZE = 4096;
